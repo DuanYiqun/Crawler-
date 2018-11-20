@@ -27,6 +27,6 @@ you can preset what kind of keywords of a product in .py file for crawler
     chromedriver = "/Users/duanyiqun/anaconda3/envs/crawler/chromedriver"
     Set output dir
     OUTPUT_DIR = '/Users/duanyiqun/Downloads/testfile.txt'
-    python google_similar_tools.py
+    python search_similar_images.py
     
     because this uses selenium to imitate scroll of a mouse, so I think currently I didn't meet anti-crawler problem form google. 
